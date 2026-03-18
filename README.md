@@ -2,8 +2,8 @@
 Windows installers for XInsight.
 
 ## Download
-[Download windows Installer](https://github.com/IDEAS-ISI/XINSIGHT---PUBLIC/releases/latest)  
-[All releases](https://github.com/IDEAS-ISI/XINSIGHT---PUBLIC/releases)
+[![Download](https://img.shields.io/badge/Download-grey?style=for-the-badge)](https://github.com/IDEAS-ISI/XINSIGHT---PUBLIC/releases/latest)  
+[![All Releases](https://img.shields.io/badge/All%20Releases-blue?style=for-the-badge)](https://github.com/IDEAS-ISI/XINSIGHT---PUBLIC/releases)
 
 ## Direct Links
 **v0.1.0:**  
