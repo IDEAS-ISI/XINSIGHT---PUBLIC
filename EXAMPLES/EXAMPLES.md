@@ -35,6 +35,7 @@ Analyzing a retail sales dataset
 3. Select **Sales**
 
 <img width="1916" height="935" alt="Image" src="https://github.com/user-attachments/assets/58dd6d28-a6d5-4830-9037-971edf9c2665" />
+
 4. **Visualization** Histogram showing sales distribution
 
    <img width="600" alt="Ingestion numeric 2" src="https://github.com/user-attachments/assets/795df4d8-0742-4a4f-8c48-ded582d28b9a" />
