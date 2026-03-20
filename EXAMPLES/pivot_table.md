@@ -33,7 +33,7 @@ Choose fields as needed:
 
 1. Select valid row/column/value fields.
 2. Choose aggregation method.
-3. Click **Generate** (or the action button shown in UI).
+3. Click **Generate**.
 
 <!-- Screenshot 3: Button click moment or ready-to-run selection -->
 
