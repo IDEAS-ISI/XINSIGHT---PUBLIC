@@ -1,4 +1,5 @@
 # XINSIGHT_INSTALLERS
+XINSIGHT is the explainable visual insight tool. The Basic usage can be found in XINSIGHT.md and advanced examples can be found in EXAMPLES folder.
 Windows installers for XInsight.
 
 ## Download
