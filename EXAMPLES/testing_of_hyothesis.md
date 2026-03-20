@@ -66,5 +66,5 @@ Focus on:
 
 Interpretation rule:
 
-- If result is significant at chosen alpha, reject null hypothesis.
+- If result is significant at chosen significance level, reject null hypothesis.
 - Otherwise, fail to reject null hypothesis.
