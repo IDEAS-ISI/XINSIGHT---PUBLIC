@@ -13,10 +13,10 @@ Find the windows installers for XInsight using the link below.
 [![All Releases](https://img.shields.io/badge/All%20Releases-blue?style=for-the-badge)](https://github.com/IDEAS-ISI/XINSIGHT---PUBLIC/releases)
 
 ## Direct Links
-**v0.2.0:**  
-(https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/releases/download/v0.2.0/XINSIGHT-IDEAS-Setup-06_May_2026-21-00-31.exe)
+**v0.3.0:**  
+(https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/releases/download/v0.3.0/XINSIGHT-IDEAS-Setup-07_May_2026-15-56-19.exe)
 ## Releases page
-https://github.com/IDEAS-ISI/XINSIGHT---PUBLIC/releases/tag/v0.2.0
+https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/releases/tag/v0.3.0
 
 ## Issues
-https://github.com/IDEAS-ISI/XINSIGHT---PUBLIC/issues
+https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/issues
