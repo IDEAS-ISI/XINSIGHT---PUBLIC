@@ -224,7 +224,8 @@ This tab lets users perform time series analysis and forecasting of a particular
 
 #### 5. Statistical Analysis
 
-<img width="1911" height="1028" alt="Image" src="https://github.com/user-attachments/assets/560293aa-78b4-4bd9-8942-9109ad9e24ec" />
+<img width="1681" height="746" alt="Screenshot 2026-05-07 182655" src="https://github.com/user-attachments/assets/f9f2b039-20bf-41ea-9434-820d474260b7" />
+
 
 Statistical Analysis provides users analysis on testing of hypothesis and eda information as two-way table/multiway table and pivot table.
 For more deatails on specific testing look into EXAMPLES folder.
