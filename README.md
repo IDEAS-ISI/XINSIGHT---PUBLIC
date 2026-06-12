@@ -14,7 +14,7 @@ Find the windows installers for XInsight using the link below.
 
 ## Direct Links
 **v0.4.1**
-(https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/releases/download/v0.4.1/XINSIGHT-IDEAS-Setup-11_June_2026-19-17-36.exe)
+([https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/releases/download/v0.4.1/XINSIGHT-IDEAS-Setup-11_June_2026-19-17-36.exe](https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/releases/download/v0.4.1/XINSIGHT-IDEAS-Setup-12_June_2026-13-18-07.exe))
 
 ## Releases page
 https://github.com/IDEAS-ISI/XINSIGHT_PUBLIC/releases/tag/v0.4.1
