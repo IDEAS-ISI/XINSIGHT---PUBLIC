@@ -10,9 +10,10 @@ This guide explains how to use the **Factor Analysis** feature in the **Statisti
 2. The **Statistical Analysis** workspace will open.
 
 ```markdown
-![Statistical Analysis Module](images/statistical_analysis.png)
+
 ```
-<img width="1824" height="618" alt="Screenshot 2026-06-18 133718" src="https://github.com/user-attachments/assets/6714d5bf-453d-4edd-ae7e-b6ca5cc3e437" />
+
+<img width="1863" height="654" alt="Screenshot 2026-06-18 181756" src="https://github.com/user-attachments/assets/fcfb295a-0687-4001-9838-f43b8d4839da" />
 
 ---
 
@@ -23,9 +24,9 @@ This guide explains how to use the **Factor Analysis** feature in the **Statisti
 3. Once selected, the system displays a preview of the first 10 rows of the dataset.
 
 ```markdown
-![Dataset Selection](images/dataset_selection.png)
-```
 
+```
+<img width="1824" height="618" alt="Screenshot 2026-06-18 133718" src="https://github.com/user-attachments/assets/6714d5bf-453d-4edd-ae7e-b6ca5cc3e437" />
 ---
 
 ## Step 3: Open the Factor Analysis Tab
@@ -42,7 +43,7 @@ This guide explains how to use the **Factor Analysis** feature in the **Statisti
 The Factor Analysis page will load.
 
 ```markdown
-![Factor Analysis Tab](images/factor_analysis_tab.png)
+
 ```
 <img width="1841" height="793" alt="Screenshot 2026-06-18 133617" src="https://github.com/user-attachments/assets/d4fd249b-07ee-4e53-943c-68ab1ec2465e" />
 
@@ -79,7 +80,7 @@ The system calculates the **KMO Score**.
 > A KMO value above **0.5** indicates that Factor Analysis can be performed.
 
 ```markdown
-![KMO and Bartlett Test Results](images/kmo_bartlett_results.png)
+
 ```
 <img width="1834" height="579" alt="Screenshot 2026-06-18 133815" src="https://github.com/user-attachments/assets/eda5e83f-ff3f-4a76-86e2-82b0153f8099" />
 
@@ -97,13 +98,13 @@ The platform provides two options for selecting the number of factors.
 #### Example
 
 ```text
-Number of Factors = 4
+
 ```
 
 Use this option when you already know how many factors you want to extract.
 
 ```markdown
-![User Selected Factors](images/user_choice_factors.png)
+
 ```
 <img width="1862" height="765" alt="Screenshot 2026-06-18 133911" src="https://github.com/user-attachments/assets/0ff648e1-30bf-4908-8781-c444d6d74cab" />
 
@@ -117,7 +118,7 @@ Use this option when you already know how many factors you want to extract.
 Use this option if you are unsure how many factors should be used.
 
 ```markdown
-![Default Factor Selection](images/default_factor_selection.png)
+
 ```
 <img width="1857" height="726" alt="Screenshot 2026-06-18 134002" src="https://github.com/user-attachments/assets/bcde422f-8c1e-497e-a785-a244d94224a3" />
 
@@ -143,7 +144,9 @@ Factor loadings indicate how strongly each variable is associated with a factor.
 Focus on variables with the highest loading values for each factor.
 
 ```markdown
-![Factor Loadings Table](images/factor_loadings.png)
+<img width="200" height="335" alt="Screenshot 2026-06-18 181909" src="https://github.com/user-attachments/assets/4ee529cd-7988-404e-ad5b-077b03dabc1f" />
+
+
 ```
 
 ---
@@ -170,8 +173,9 @@ Based on the variables with high loadings, assign a meaningful business name to 
 * Customer Preferences
 
 ```markdown
-![Factor Interpretation](images/factor_interpretation.png)
+
 ```
+<img width="281" height="178" alt="Screenshot 2026-06-18 181944" src="https://github.com/user-attachments/assets/ca2f0b62-727a-4e01-8ca8-81d6f717bf72" />
 
 ---
 
