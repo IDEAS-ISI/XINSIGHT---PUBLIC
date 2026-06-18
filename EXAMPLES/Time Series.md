@@ -227,9 +227,8 @@ Users can:
 * Compare past and future values
 * Identify trends
 * Understand expected future behavior
-<p align="center">
-  <img src="images/actual-vs-fitted.png" width="900">
-</p>
+<img width="1858" height="774" alt="images/actual-vs-fitted.png" src="https://github.com/user-attachments/assets/c5b060b7-12c1-418d-8344-199c2be69f13" />
+
 ---
 
 ## Summary
