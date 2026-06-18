@@ -144,10 +144,10 @@ Factor loadings indicate how strongly each variable is associated with a factor.
 Focus on variables with the highest loading values for each factor.
 
 ```markdown
-<img width="200" height="335" alt="Screenshot 2026-06-18 181909" src="https://github.com/user-attachments/assets/4ee529cd-7988-404e-ad5b-077b03dabc1f" />
 
 
 ```
+<img width="200" height="335" alt="Screenshot 2026-06-18 181909" src="https://github.com/user-attachments/assets/4ee529cd-7988-404e-ad5b-077b03dabc1f" />
 
 ---
 
