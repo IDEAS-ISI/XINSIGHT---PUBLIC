@@ -228,7 +228,8 @@ Users can:
 * Identify trends
 * Understand expected future behavior
   
-<img width="1858" height="774" src="Screenshot 2026-06-18 163348.png" />
+
+<img width="1854" height="829" alt="Screenshot 2026-06-18 163348" src="https://github.com/user-attachments/assets/fead2431-1780-4b79-a6cf-db5f8499204b" />
 
 ---
 
