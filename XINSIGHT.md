@@ -17,7 +17,8 @@ Please follow the steps below to install the XInsight application
 
 
 3. Select the desired location where the software will be installed
- <img width="915" height="644" alt="Screenshot 2026-07-20 160808" src="https://github.com/user-attachments/assets/852c98f6-e48d-4cc2-840a-52ec0cfca366" />
+ <img width="791" height="609" alt="Screenshot 2026-07-20 160808" src="https://github.com/user-attachments/assets/c4528173-90e1-4612-a410-2b79de12637a" />
+
 
 
 4. You can keep the checklist selected to create a desktop shortcut (optional)
