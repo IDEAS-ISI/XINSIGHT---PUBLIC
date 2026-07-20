@@ -13,32 +13,32 @@ Please follow the steps below to install the XInsight application
 
 
 2. Please go through the terms and conditions of the license agreement before accepting it.
+ <img width="797" height="615" alt="Screenshot 2026-07-20 160718" src="https://github.com/user-attachments/assets/b30c2ba6-08c2-424f-b6ce-7a57e9458cec" />
 
- <img width="500" alt="Step 2" src="https://github.com/user-attachments/assets/9f10decc-677c-4c30-ab44-6d27b0434f7a" />
 
 3. Select the desired location where the software will be installed
+ <img width="915" height="644" alt="Screenshot 2026-07-20 160808" src="https://github.com/user-attachments/assets/852c98f6-e48d-4cc2-840a-52ec0cfca366" />
 
- <img width="500" alt="Step 3" src="https://github.com/user-attachments/assets/e969208e-ba05-4ed1-b1ae-3434797c9f92" />
 
 4. You can keep the checklist selected to create a desktop shortcut (optional)
+ <img width="790" height="607" alt="Screenshot 2026-07-20 160908" src="https://github.com/user-attachments/assets/632047ee-1860-40f7-9b90-2f6ca07f5d15" />
 
- <img width="500" alt="Step 4" src="https://github.com/user-attachments/assets/4679e276-6197-43b1-b404-c0139e00f20c" />
 
 5. Select "Install" to begin installation.
+  <img width="787" height="610" alt="Screenshot 2026-07-20 160941" src="https://github.com/user-attachments/assets/43cb4234-1263-41b2-bbee-e0dbbc4b075e" />
 
-  <img width="500" alt="Step 5" src="https://github.com/user-attachments/assets/c885200b-6675-475b-a669-0c43e25cd95c" />
 
 6. Please wait for a while while the software installs.
+ <img width="792" height="607" alt="Screenshot 2026-07-20 161016" src="https://github.com/user-attachments/assets/2f1d8bae-3998-4577-b399-bf2da34a72fa" />
 
- <img width="500" alt="Step 6" src="https://github.com/user-attachments/assets/fda247bd-cc27-452c-a836-7905375c1cdb" />
 
 7. The installation is now completed. Select "Launch IDEAS-XINSIGHT" to get started with the software!
+ <img width="791" height="603" alt="Screenshot 2026-07-20 161105" src="https://github.com/user-attachments/assets/013bae81-f03f-4ea9-9766-8f0b201c6581" />
 
- <img width="500" alt="Step 7" src="https://github.com/user-attachments/assets/170cc2a5-734f-4f1b-8454-d2a50076271b" />
 
 8. Once you see this window, please wait for a couple of minutes (1-3 minutes depending on the device) for the app to open.
+ <img width="1050" height="730" alt="Screenshot 2026-07-20 161200" src="https://github.com/user-attachments/assets/b20c1dc8-a437-4827-9d21-30e2a69f4ef3" />
 
- <img width="500" alt="Step 8" src="https://github.com/user-attachments/assets/20270d5b-e2b6-4ca1-a81a-b86b09eaca67" />
 
 ## How to use
 
