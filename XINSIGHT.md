@@ -9,8 +9,8 @@ This documentation explores how a user will potentially use XInsight and what fu
 Please follow the steps below to install the XInsight application
 
 1. Select for which user you want to install.
+ <img width="452" height="317" alt="Screenshot 2026-07-20 160355" src="https://github.com/user-attachments/assets/d0fd965f-0daf-40f2-8d10-902551634507" />
 
- <img width="500" alt="Step 1" src="https://github.com/user-attachments/assets/31af4636-2679-4f07-9168-87cd46376829" />
 
 2. Please go through the terms and conditions of the license agreement before accepting it.
 
