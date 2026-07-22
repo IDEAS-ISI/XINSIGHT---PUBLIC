@@ -8,6 +8,11 @@ This documentation explores how a user will potentially use XInsight and what fu
 
 Please follow the steps below to install the XInsight application
 
+If SmartScreen is enabled on your computer, you may encounter a warning that indicates the XInsight installer is an unrecognized application. Do not worry. 
+Just click on the More info link and proceed with the installation.
+<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/daa1f5f8-2bc5-4bd6-9cc1-3ad8e7654b10" />
+
+
 1. Select for which user you want to install.
  <img width="452" height="317" alt="Screenshot 2026-07-20 160355" src="https://github.com/user-attachments/assets/d0fd965f-0daf-40f2-8d10-902551634507" />
 
