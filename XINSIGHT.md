@@ -17,8 +17,12 @@ Just click on the More info link and proceed with the installation.
  <img width="452" height="317" alt="Screenshot 2026-07-20 160355" src="https://github.com/user-attachments/assets/d0fd965f-0daf-40f2-8d10-902551634507" />
 
 
+
+
 2. Please go through the terms and conditions of the license agreement before accepting it.
  <img width="797" height="615" alt="Screenshot 2026-07-20 160718" src="https://github.com/user-attachments/assets/b30c2ba6-08c2-424f-b6ce-7a57e9458cec" />
+
+
 
 
 3. Select the desired location where the software will be installed
@@ -26,20 +30,29 @@ Just click on the More info link and proceed with the installation.
 
 
 
+
 4. You can keep the checklist selected to create a desktop shortcut (optional)
  <img width="790" height="607" alt="Screenshot 2026-07-20 160908" src="https://github.com/user-attachments/assets/632047ee-1860-40f7-9b90-2f6ca07f5d15" />
+
+
 
 
 5. Select "Install" to begin installation.
   <img width="787" height="610" alt="Screenshot 2026-07-20 160941" src="https://github.com/user-attachments/assets/43cb4234-1263-41b2-bbee-e0dbbc4b075e" />
 
 
+
+
 6. Please wait for a while while the software installs.
  <img width="792" height="607" alt="Screenshot 2026-07-20 161016" src="https://github.com/user-attachments/assets/2f1d8bae-3998-4577-b399-bf2da34a72fa" />
 
 
+
+
 7. The installation is now completed. Select "Launch IDEAS-XINSIGHT" to get started with the software!
  <img width="791" height="603" alt="Screenshot 2026-07-20 161105" src="https://github.com/user-attachments/assets/013bae81-f03f-4ea9-9766-8f0b201c6581" />
+
+
 
 
 8. Once you see this window, please wait for a couple of minutes (1-3 minutes depending on the device) for the app to open.
