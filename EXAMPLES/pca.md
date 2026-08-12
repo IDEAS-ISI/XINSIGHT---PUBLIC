@@ -10,8 +10,7 @@ in the **Statistical Analysis** module.
 1. From the left navigation panel, click **Statistical Analysis**.
 2. The **Statistical Analysis** workspace will open.
 
-> 📸 *Screenshot placeholder: left navigation panel with Statistical Analysis highlighted.*
-
+![alt text](image.png)
 ---
 
 ## Step 2: Select a Dataset
@@ -21,8 +20,7 @@ in the **Statistical Analysis** module.
 3. Once selected, the system displays a preview of the first 10 rows of the
    dataset.
 
-> 📸 *Screenshot placeholder: dataset selector and preview.*
-
+![alt text](image-1.png)
 ---
 
 ## Step 3: Open the Principal Component Analysis Tab
@@ -39,8 +37,7 @@ in the **Statistical Analysis** module.
 
 The PCA page will load.
 
-> 📸 *Screenshot placeholder: the tab bar with Principal Component Analysis selected.*
-
+![alt text](image-2.png)
 ---
 
 ## Step 4: Check Dataset Suitability
@@ -78,8 +75,8 @@ The system calculates the **KMO Score**.
 
 > A KMO value above **0.5** indicates that PCA can be performed.
 
-> 📸 *Screenshot placeholder: Bartlett's and KMO buttons with their results.*
-
+![alt text](image-3.png)
+![alt text](image-4.png)
 ---
 
 ## Step 5: Choose the Number of Components
@@ -101,8 +98,10 @@ components.
 Use this option when you already know how many components you want to keep —
 for example, because you specifically need a 2D result for visualization.
 
-> 📸 *Screenshot placeholder: the User Choice component-count dropdown.*
-
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
 ### Option 2: Default
 
 1. Click **Default**.
@@ -112,8 +111,9 @@ for example, because you specifically need a 2D result for visualization.
 
 Use this option if you're unsure how many components should be used.
 
-> 📸 *Screenshot placeholder: the Default button and its automatic component count.*
-
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
 ---
 
 ## Step 6: Review the Results
@@ -151,14 +151,10 @@ of every row's position on the first two components (PC1 vs PC2) — this is
 where clusters, outliers, or separation between groups tend to become
 visually obvious.
 
-> 📸 *Screenshot placeholder: explained variance table + chart.*
-
-> 📸 *Screenshot placeholder: scree plot (Default option).*
-
-> 📸 *Screenshot placeholder: loadings table and heatmap.*
-
-> 📸 *Screenshot placeholder: PC1 vs PC2 scores scatter plot.*
-
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
 ---
 
 ## Step 7: Interpret the Components
@@ -185,8 +181,7 @@ component — the same way you would name a factor.
 - Seasonal Behavior
 - Customer Preferences
 
-> 📸 *Screenshot placeholder: annotated loadings heatmap with example component groupings.*
-
+D
 ---
 
 ## PCA vs. Factor Analysis — Which Should I Use?

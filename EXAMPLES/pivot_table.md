@@ -12,8 +12,7 @@ Table**.
 3. Select your dataset.
 4. Open the **Pivot Table** tab.
 
-> 📸 *Screenshot placeholder: the Statistical Analysis tab bar with Pivot Table selected.*
-
+![alt text](image-16.png)
 ---
 
 ## 2. Review the Dataset Preview
@@ -21,8 +20,7 @@ Table**.
 The top of the page shows a preview of your dataset so you can see column
 names and sample values before configuring the pivot.
 
-> 📸 *Screenshot placeholder: dataset preview.*
-
+![alt text](image-17.png)
 ---
 
 ## 3. Configure the Pivot
@@ -52,8 +50,7 @@ names and sample values before configuring the pivot.
 | `size` | Rows in the group, including missing values |
 | `std` | Spread / variability within the group |
 
-> 📸 *Screenshot placeholder: Row/Column/Value/Aggregation selectors and the Grand Totals / Fill checkboxes.*
-
+![alt text](image-18.png)
 ---
 
 ## 4. Choose a Value Display Mode
@@ -77,7 +74,6 @@ regenerating the table.
 > normalize or color by, so both features are hidden rather than showing a
 > misleading partial result.
 
-> 📸 *Screenshot placeholder: the Value display radio buttons.*
 
 ---
 
@@ -90,7 +86,6 @@ If **Show Grand Totals** is on, the `Total` row stays pinned at the bottom
 regardless of sort order — it always represents the grand total, not a value
 to be ranked alongside the rest.
 
-> 📸 *Screenshot placeholder: the sort controls and a sorted result.*
 
 ---
 
@@ -103,7 +98,6 @@ Check **Highlight values as heatmap** to render the pivot result as a colored
 grid instead of a plain table — useful for quickly spotting the
 largest/smallest cells in a big pivot.
 
-> 📸 *Screenshot placeholder: the pivot table rendered as a heatmap.*
 
 ---
 
@@ -117,8 +111,7 @@ Two download options are always available, regardless of pivot complexity:
 Both export exactly what's currently displayed — including any sort order or
 percentage view you've applied.
 
-> 📸 *Screenshot placeholder: the Excel/CSV download buttons.*
-
+![alt text](image-29.png)
 ---
 
 ## Summary

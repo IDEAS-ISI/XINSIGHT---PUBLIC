@@ -12,8 +12,7 @@ Use this guide to build contingency tables and test for association in
 3. Select your dataset.
 4. Open the **Two-Way / Multiway Table** tab.
 
-> 📸 *Screenshot placeholder: the Statistical Analysis tab bar with Two-Way / Multiway Table selected.*
-
+![alt text](image-19.png)
 ---
 
 ## 2. Review the Dataset Preview and Categorical Columns
@@ -25,8 +24,7 @@ Use this guide to build contingency tables and test for association in
 3. If a column you need isn't picked up automatically, use **Select columns
    to force convert to categorical (if required)** to add it manually.
 
-> 📸 *Screenshot placeholder: dataset preview + the force-convert-to-categorical multiselect.*
-
+![alt text](image-20.png)
 **Note:** at least 2 categorical variables are required to build a
 contingency table. If your dataset doesn't have that many, you'll see an
 error message here instead of the variable selectors below.
@@ -42,7 +40,8 @@ error message here instead of the variable selectors below.
      representing a combination of explanatory-variable categories.
 3. Click **Generate Table**.
 
-> 📸 *Screenshot placeholder: Response Variable and Explanatory Variables selectors.*
+![alt text](image-21.png)
+![alt text](image-22.png)
 
 ---
 
@@ -52,8 +51,8 @@ The **Multiway Cross Tabulation** shows a count for every combination of
 Explanatory Variable categories (rows) against Response Variable categories
 (columns) — a standard contingency table.
 
-> 📸 *Screenshot placeholder: the generated cross-tabulation table.*
-
+![alt text](image-23.png)
+![alt text](image-24.png)
 ---
 
 ## 5. Chi-Square Test of Association
@@ -85,8 +84,8 @@ This runs automatically once the table is generated — no extra click needed.
 > The exact thresholds shift slightly with table size — a 2×2 table and a
 > 4×5 table don't use the same cutoffs for "strong."
 
-> 📸 *Screenshot placeholder: the chi-square results block with metrics and Cramér's V.*
-
+![alt text](image-25.png)
+![alt text](image-26.png)
 ---
 
 ## 6. Fisher's Exact Test (2×2 tables only)
@@ -104,8 +103,8 @@ Use Fisher's exact test instead of (or alongside) the chi-square result when
 your sample is small or expected cell counts are low — it computes an exact
 probability rather than relying on chi-square's large-sample approximation.
 
-> 📸 *Screenshot placeholder: Fisher's exact test section with the alternative-hypothesis dropdown.*
-
+![alt text](image-27.png)
+![alt text](image-28.png)
 ---
 
 ## 7. How to Read the Result
